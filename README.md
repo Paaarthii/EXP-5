@@ -33,6 +33,40 @@ REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
 
+Circuit diagram:
+
+<img width="1034" height="393" alt="Screenshot 2026-06-07 150733" src="https://github.com/user-attachments/assets/93cc73b6-5167-44bc-9540-8de86465aee2" />
+
+Tabulation:
+
+<img width="1018" height="575" alt="Screenshot 2026-06-07 150744" src="https://github.com/user-attachments/assets/9375dd13-b336-4f6d-916f-112644995f3f" />
+
+Model Graph
+
+<img width="992" height="441" alt="Screenshot 2026-06-07 150755" src="https://github.com/user-attachments/assets/ec0e8a5d-2097-4999-b965-424a07647106" />
+
+Output-line Regulation:
+
+<img width="994" height="571" alt="Screenshot 2026-06-07 150822" src="https://github.com/user-attachments/assets/3f43087c-7414-43e8-ad2a-33a91b19529a" />
+
+Load Regulation:
+
+Circuit Diagram:
+
+<img width="1023" height="390" alt="Screenshot 2026-06-07 151101" src="https://github.com/user-attachments/assets/0283d7df-f700-49e4-a221-e679290ec116" />
+
+Tabulation:
+
+<img width="989" height="564" alt="Screenshot 2026-06-07 151109" src="https://github.com/user-attachments/assets/92aef1ba-d3c0-43f4-9b0a-6ab2a8beac06" />
+
+Model Graph:
+
+<img width="1015" height="463" alt="Screenshot 2026-06-07 151118" src="https://github.com/user-attachments/assets/58f444ae-5046-4174-9c3d-b5778bf36b96" />
+
+Output Load Regulation:
+
+<img width="1007" height="597" alt="Screenshot 2026-06-07 151129" src="https://github.com/user-attachments/assets/462c3585-84a0-4390-9626-f9f9161c4f2f" />
+
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
